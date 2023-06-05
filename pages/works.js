@@ -32,7 +32,7 @@ const Works = () => (
       <SimpleGrid columns={[1, 1, 2]} gap={6}>
       <Section>
           <WorkGridItem id="Statistics" title="Statistics" thumbnail={thumbEstadistica}>
-          A discord bot with NodeJS that has custom music and audio commands
+          A page to solve complex statistics exercises
           </WorkGridItem>
         </Section>
         <Section>
